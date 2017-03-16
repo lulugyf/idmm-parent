@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" debug="true">
+	
+	
+	<appender name="debugout" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%5p]%d{HH:mm:ss.SSS}[%t][%logger{32}] -- %m%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="debugout_file"
+			  class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>log/ble.debug</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>log/ble.debug.%d{yyyyMMdd}.gz</fileNamePattern>
+			<maxHistory>60</maxHistory>
+		</rollingPolicy>
+		<encoder>
+			<pattern>[%5p]%d{HH:mm:ss.SSS}[%X{uuid}][%X{mid}] -- %m%n</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- ignore these packages debug logging 
+	<logger name="o.s.j.core" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="c.s.c.idmm2.transport" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="o.s.j.datasource" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="o.s.jdbc.core" level="INFO" additivity="false" >
+        <appender-ref ref="debugout" />
+    </logger>
+	<logger name="o.s.b.f.s" level="INFO" additivity="false" /> -->
+
+	<logger name="org.apache.zookeeper.ClientCnxn" level="INFO" additivity="false">
+        <appender-ref ref="debugout" />
+    </logger>
+	
+	<logger name="com.sitech.crmpd.idmm2.transport.FrameCodeC" level="INFO" additivity="false">
+        <appender-ref ref="debugout" />
+    </logger>
+	
+	<root level="DEBUG">
+		<appender-ref ref="debugout_file" />
+	</root>
+	
+
+</configuration>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+	<bean id="dataSource" class="org.apache.tomcat.jdbc.pool.DataSource"
+		init-method="getPool" destroy-method="close">
+		<property name="driverClassName" value="${jdbc.driverClassName}" />
+		<property name="url" value="${jdbc.url}" />
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+		<!-- 下面druid 和 dbcp 连接池通用的 -->
+		<!--maxActive: 最大连接数量 -->
+		<property name="maxActive" value="${jdbc.maxActive}" />
+		<!--initialSize: 初始化连接 -->
+		<property name="initialSize" value="${jdbc.initialSize}" />
+		<!-- 避免长时间不用，连接会失效 -->
+		<property name="testOnBorrow" value="true" />
+		<property name="validationQuery" value="select 1 from dual" />
+	</bean>
+ 
+	<alias alias="storeDataSource" name="dataSource" />
+
+</beans>

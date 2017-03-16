@@ -1,0 +1,421 @@
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.QueryMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.PullMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendRollbackMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.DeleteMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/Count
+0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/RateUnit
+events/second
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/MeanRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/FiveMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/FifteenMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/metrics:name=com.sitech.crmpd.idmm2.broker.handler.SendCommitMessageHandler.handleAndAnswer/OneMinuteRate
+0.0
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/SystemLoadAverage
+-1.0
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/Version
+6.1
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/Name
+Windows 7
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/ObjectName
+{u'objectName': u'java.lang:type=OperatingSystem'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/ProcessCpuLoad
+0.00291613109463
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/FreeSwapSpaceSize
+1887809536
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/AvailableProcessors
+2
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/FreePhysicalMemorySize
+707547136
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/TotalPhysicalMemorySize
+2144370688
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/SystemCpuLoad
+0.188872543214
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/ProcessCpuTime
+23337749600
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/CommittedVirtualMemorySize
+102727680
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/Arch
+x86
+http://127.0.0.1:8778/jolokia/read/java.lang:type=OperatingSystem/TotalSwapSpaceSize
+4288741376
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/UsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/CollectionUsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/Name
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/ObjectName
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/UsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/CollectionUsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/PeakUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/MemoryManagerNames
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/CollectionUsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/Valid
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/Usage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/UsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/Type
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/CollectionUsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/CollectionUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Tenured Gen,type=MemoryPool/UsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Compilation/TotalCompilationTime
+1505
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Compilation/CompilationTimeMonitoringSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Compilation/Name
+HotSpot Client Compiler
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Compilation/ObjectName
+{u'objectName': u'java.lang:type=Compilation'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/Uptime
+4380470
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/Name
+1684@PC-20150526KMRX
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/ObjectName
+{u'objectName': u'java.lang:type=Runtime'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/BootClassPathSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/SystemProperties
+{u'sun.boot.class.path': u'D:\\Green\\J2SE7\\jre\\lib\\resources.jar;D:\\Green\\J2SE7\\jre\\lib\\rt.jar;D:\\Green\\J2SE7\\jre\\lib\\sunrsasign.jar;D:\\Green\\J2SE7\\jre\\lib\\jsse.jar;D:\\Green\\J2SE7\\jre\\lib\\jce.jar;D:\\Green\\J2SE7\\jre\\lib\\charsets.jar;D:\\Green\\J2SE7\\jre\\lib\\jfr.jar;D:\\Green\\J2SE7\\jre\\classes', u'java.vm.specification.vendor': u'Oracle Corporation', u'file.encoding': u'UTF-8', u'java.specification.name': u'Java Platform API Specification', u'java.vm.specification.name': u'Java Virtual Machine Specification', u'sun.arch.data.model': u'32', u'java.ext.dirs': u'D:\\Green\\J2SE7\\jre\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext', u'java.specification.vendor': u'Oracle Corporation', u'java.vm.specification.version': u'1.7', u'user.variant': u'', u'os.name': u'Windows 7', u'sun.java.launcher': u'SUN_STANDARD', u'user.timezone': u'Asia/Shanghai', u'sun.io.unicode.encoding': u'UnicodeLittle', u'java.io.tmpdir': u'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\', u'file.separator': u'\\', u'java.runtime.name': u'Java(TM) SE Runtime Environment', u'user.country': u'CN', u'user.dir': u'E:\\Project\\luna\\idmm2-parent\\assembly', u'sun.boot.library.path': u'D:\\Green\\J2SE7\\jre\\bin', u'java.home': u'D:\\Green\\J2SE7\\jre', u'line.separator': u'\r\n', u'sun.cpu.isalist': u'pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86', u'java.vm.info': u'mixed mode', u'sun.jnu.encoding': u'GBK', u'java.vm.vendor': u'Oracle Corporation', u'user.script': u'', u'path.separator': u';', u'java.vendor.url': u'http://java.oracle.com/', u'user.name': u'Administrator', u'java.awt.printerjob': u'sun.awt.windows.WPrinterJob', u'java.rmi.server.randomIDs': u'true', u'java.class.path': u'E:\\Project\\luna\\idmm2-parent\\assembly\\target\\classes;E:\\Maven\\repo\\org\\gridkit\\lab\\sigar-lib\\1.6.4\\sigar-lib-1.6.4.jar;E:\\Maven\\repo\\org\\fusesource\\sigar\\1.6.4\\sigar-1.6.4.jar;E:\\Maven\\repo\\org\\jolokia\\jolokia-spring\\1.3.1\\jolokia-spring-1.3.1.jar;E:\\Maven\\repo\\org\\jolokia\\jolokia-jvm\\1.3.1\\jolokia-jvm-1.3.1.jar;E:\\Maven\\repo\\org\\jolokia\\jolokia-core\\1.3.1\\jolokia-core-1.3.1.jar;E:\\Maven\\repo\\com\\googlecode\\json-simple\\json-simple\\1.1.1\\json-simple-1.1.1.jar;D:\\Green\\J2SE8\\lib\\tools.jar;E:\\Maven\\repo\\org\\jolokia\\jolokia-jmx\\1.3.1\\jolokia-jmx-1.3.1.jar;E:\\Project\\luna\\idmm2-parent\\idmm2-broker\\target\\classes;E:\\Maven\\repo\\ch\\qos\\logback\\logback-classic\\1.1.3\\logback-classic-1.1.3.jar;E:\\Maven\\repo\\ch\\qos\\logback\\logback-core\\1.1.3\\logback-core-1.1.3.jar;E:\\Maven\\repo\\org\\slf4j\\slf4j-api\\1.7.12\\slf4j-api-1.7.12.jar;E:\\Maven\\repo\\org\\springframework\\data\\spring-data-commons\\1.10.0.RELEASE\\spring-data-commons-1.10.0.RELEASE.jar;E:\\Maven\\repo\\org\\slf4j\\jcl-over-slf4j\\1.7.12\\jcl-over-slf4j-1.7.12.jar;E:\\Maven\\repo\\org\\springframework\\spring-jdbc\\4.1.6.RELEASE\\spring-jdbc-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\springframework\\spring-beans\\4.1.6.RELEASE\\spring-beans-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\springframework\\spring-core\\4.1.6.RELEASE\\spring-core-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\springframework\\spring-tx\\4.1.6.RELEASE\\spring-tx-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\apache\\tomcat\\tomcat-jdbc\\8.0.21\\tomcat-jdbc-8.0.21.jar;E:\\Maven\\repo\\com\\github\\akiraly\\reusable-poms\\tomcat-juli-over-slf4j\\4\\tomcat-juli-over-slf4j-4.jar;E:\\Maven\\repo\\mysql\\mysql-connector-java\\5.1.35\\mysql-connector-java-5.1.35.jar;E:\\Maven\\repo\\org\\apache\\curator\\curator-recipes\\2.7.1\\curator-recipes-2.7.1.jar;E:\\Maven\\repo\\org\\apache\\curator\\curator-framework\\2.7.1\\curator-framework-2.7.1.jar;E:\\Maven\\repo\\org\\apache\\curator\\curator-client\\2.7.1\\curator-client-2.7.1.jar;E:\\Maven\\repo\\org\\apache\\zookeeper\\zookeeper\\3.4.6\\zookeeper-3.4.6.jar;E:\\Maven\\repo\\com\\google\\guava\\guava\\18.0\\guava-18.0.jar;E:\\Maven\\repo\\org\\slf4j\\jul-to-slf4j\\1.7.12\\jul-to-slf4j-1.7.12.jar;E:\\Maven\\repo\\org\\glassfish\\javax.el\\3.0.1-b07\\javax.el-3.0.1-b07.jar;E:\\Maven\\repo\\com\\ryantenney\\metrics\\metrics-spring\\3.1.0\\metrics-spring-3.1.0.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-core\\3.1.2\\metrics-core-3.1.2.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-healthchecks\\3.1.2\\metrics-healthchecks-3.1.2.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-annotation\\3.1.2\\metrics-annotation-3.1.2.jar;E:\\Maven\\repo\\org\\springframework\\spring-context-support\\4.1.6.RELEASE\\spring-context-support-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\springframework\\spring-aop\\4.1.6.RELEASE\\spring-aop-4.1.6.RELEASE.jar;E:\\Maven\\repo\\aopalliance\\aopalliance\\1.0\\aopalliance-1.0.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-jvm\\3.1.2\\metrics-jvm-3.1.2.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-servlets\\3.1.2\\metrics-servlets-3.1.2.jar;E:\\Maven\\repo\\io\\dropwizard\\metrics\\metrics-json\\3.1.2\\metrics-json-3.1.2.jar;E:\\Maven\\repo\\com\\fasterxml\\jackson\\core\\jackson-databind\\2.4.2\\jackson-databind-2.4.2.jar;E:\\Maven\\repo\\com\\fasterxml\\jackson\\core\\jackson-annotations\\2.4.0\\jackson-annotations-2.4.0.jar;E:\\Maven\\repo\\com\\fasterxml\\jackson\\core\\jackson-core\\2.4.2\\jackson-core-2.4.2.jar;E:\\Project\\luna\\idmm2-parent\\idmm2-transport\\target\\classes;E:\\Project\\luna\\idmm2-parent\\idmm2-client-api\\target\\classes;E:\\Maven\\repo\\com\\alibaba\\fastjson\\1.2.5\\fastjson-1.2.5.jar;E:\\Maven\\repo\\javax\\jms\\jms-api\\1.1-rev-1\\jms-api-1.1-rev-1.jar;E:\\Maven\\repo\\org\\apache\\commons\\commons-pool2\\2.3\\commons-pool2-2.3.jar;E:\\Maven\\repo\\org\\springframework\\spring-context\\4.1.6.RELEASE\\spring-context-4.1.6.RELEASE.jar;E:\\Maven\\repo\\org\\springframework\\spring-expression\\4.1.6.RELEASE\\spring-expression-4.1.6.RELEASE.jar;E:\\Maven\\repo\\io\\netty\\netty-handler\\4.0.27.Final\\netty-handler-4.0.27.Final.jar;E:\\Maven\\repo\\io\\netty\\netty-buffer\\4.0.27.Final\\netty-buffer-4.0.27.Final.jar;E:\\Maven\\repo\\io\\netty\\netty-common\\4.0.27.Final\\netty-common-4.0.27.Final.jar;E:\\Maven\\repo\\io\\netty\\netty-transport\\4.0.27.Final\\netty-transport-4.0.27.Final.jar;E:\\Maven\\repo\\io\\netty\\netty-codec\\4.0.27.Final\\netty-codec-4.0.27.Final.jar', u'java.specification.version': u'1.7', u'os.version': u'6.1', u'os.arch': u'x86', u'java.runtime.version': u'1.7.0_25-b16', u'file.encoding.pkg': u'sun.io', u'java.vm.version': u'23.25-b01', u'java.version': u'1.7.0_25', u'sun.java.command': u'com.sitech.crmpd.idmm2.broker.App', u'sun.cpu.endian': u'little', u'java.awt.graphicsenv': u'sun.awt.Win32GraphicsEnvironment', u'user.language': u'zh', u'java.class.version': u'51.0', u'java.vendor': u'Oracle Corporation', u'java.library.path': u'D:\\Green\\J2SE7\\bin;C:\\Windows\\Sun\\Java\\bin;C:\\Windows\\system32;C:\\Windows;D:\\Green\\J2SE7\\jre\\bin;D:/Green/J2SE8/bin/../jre/bin/client;D:/Green/J2SE8/bin/../jre/bin;D:/Green/J2SE8/bin/../jre/lib/i386;D:\\Goto;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;.;D:\\Goto;D:\\Green\\Python27;D:\\Green\\Python27\\Scripts;E:\\gradle\\bin;E:\\go\\bin;E:\\sbt\\bin;D:\\Green\\J2SE8\\bin;E:\\Maven\\bin;D:\\Green\\svn\\bin;;D:\\Green\\Nim\\bin;E:\\Tools;D:\\Quick;D:\\Green;D:\\Green\\MinGW\\msys\\1.0\\bin;C:\\Users\\Administrator;;.', u'java.vm.name': u'Java HotSpot(TM) Client VM', u'java.endorsed.dirs': u'D:\\Green\\J2SE7\\jre\\lib\\endorsed', u'user.home': u'C:\\Users\\Administrator', u'sun.management.compiler': u'HotSpot Client Compiler', u'sun.desktop': u'windows', u'sun.os.patch.level': u'Service Pack 1', u'awt.toolkit': u'sun.awt.windows.WToolkit', u'java.vendor.url.bug': u'http://bugreport.sun.com/bugreport/', u'sun.nio.ch.bugLevel': u''}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/SpecVersion
+1.7
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/ClassPath
+E:\Project\luna\idmm2-parent\assembly\target\classes;E:\Maven\repo\org\gridkit\lab\sigar-lib\1.6.4\sigar-lib-1.6.4.jar;E:\Maven\repo\org\fusesource\sigar\1.6.4\sigar-1.6.4.jar;E:\Maven\repo\org\jolokia\jolokia-spring\1.3.1\jolokia-spring-1.3.1.jar;E:\Maven\repo\org\jolokia\jolokia-jvm\1.3.1\jolokia-jvm-1.3.1.jar;E:\Maven\repo\org\jolokia\jolokia-core\1.3.1\jolokia-core-1.3.1.jar;E:\Maven\repo\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;D:\Green\J2SE8\lib\tools.jar;E:\Maven\repo\org\jolokia\jolokia-jmx\1.3.1\jolokia-jmx-1.3.1.jar;E:\Project\luna\idmm2-parent\idmm2-broker\target\classes;E:\Maven\repo\ch\qos\logback\logback-classic\1.1.3\logback-classic-1.1.3.jar;E:\Maven\repo\ch\qos\logback\logback-core\1.1.3\logback-core-1.1.3.jar;E:\Maven\repo\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\Maven\repo\org\springframework\data\spring-data-commons\1.10.0.RELEASE\spring-data-commons-1.10.0.RELEASE.jar;E:\Maven\repo\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\Maven\repo\org\springframework\spring-jdbc\4.1.6.RELEASE\spring-jdbc-4.1.6.RELEASE.jar;E:\Maven\repo\org\springframework\spring-beans\4.1.6.RELEASE\spring-beans-4.1.6.RELEASE.jar;E:\Maven\repo\org\springframework\spring-core\4.1.6.RELEASE\spring-core-4.1.6.RELEASE.jar;E:\Maven\repo\org\springframework\spring-tx\4.1.6.RELEASE\spring-tx-4.1.6.RELEASE.jar;E:\Maven\repo\org\apache\tomcat\tomcat-jdbc\8.0.21\tomcat-jdbc-8.0.21.jar;E:\Maven\repo\com\github\akiraly\reusable-poms\tomcat-juli-over-slf4j\4\tomcat-juli-over-slf4j-4.jar;E:\Maven\repo\mysql\mysql-connector-java\5.1.35\mysql-connector-java-5.1.35.jar;E:\Maven\repo\org\apache\curator\curator-recipes\2.7.1\curator-recipes-2.7.1.jar;E:\Maven\repo\org\apache\curator\curator-framework\2.7.1\curator-framework-2.7.1.jar;E:\Maven\repo\org\apache\curator\curator-client\2.7.1\curator-client-2.7.1.jar;E:\Maven\repo\org\apache\zookeeper\zookeeper\3.4.6\zookeeper-3.4.6.jar;E:\Maven\repo\com\google\guava\guava\18.0\guava-18.0.jar;E:\Maven\repo\org\slf4j\jul-to-slf4j\1.7.12\jul-to-slf4j-1.7.12.jar;E:\Maven\repo\org\glassfish\javax.el\3.0.1-b07\javax.el-3.0.1-b07.jar;E:\Maven\repo\com\ryantenney\metrics\metrics-spring\3.1.0\metrics-spring-3.1.0.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-core\3.1.2\metrics-core-3.1.2.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-healthchecks\3.1.2\metrics-healthchecks-3.1.2.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-annotation\3.1.2\metrics-annotation-3.1.2.jar;E:\Maven\repo\org\springframework\spring-context-support\4.1.6.RELEASE\spring-context-support-4.1.6.RELEASE.jar;E:\Maven\repo\org\springframework\spring-aop\4.1.6.RELEASE\spring-aop-4.1.6.RELEASE.jar;E:\Maven\repo\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-jvm\3.1.2\metrics-jvm-3.1.2.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-servlets\3.1.2\metrics-servlets-3.1.2.jar;E:\Maven\repo\io\dropwizard\metrics\metrics-json\3.1.2\metrics-json-3.1.2.jar;E:\Maven\repo\com\fasterxml\jackson\core\jackson-databind\2.4.2\jackson-databind-2.4.2.jar;E:\Maven\repo\com\fasterxml\jackson\core\jackson-annotations\2.4.0\jackson-annotations-2.4.0.jar;E:\Maven\repo\com\fasterxml\jackson\core\jackson-core\2.4.2\jackson-core-2.4.2.jar;E:\Project\luna\idmm2-parent\idmm2-transport\target\classes;E:\Project\luna\idmm2-parent\idmm2-client-api\target\classes;E:\Maven\repo\com\alibaba\fastjson\1.2.5\fastjson-1.2.5.jar;E:\Maven\repo\javax\jms\jms-api\1.1-rev-1\jms-api-1.1-rev-1.jar;E:\Maven\repo\org\apache\commons\commons-pool2\2.3\commons-pool2-2.3.jar;E:\Maven\repo\org\springframework\spring-context\4.1.6.RELEASE\spring-context-4.1.6.RELEASE.jar;E:\Maven\repo\org\springframework\spring-expression\4.1.6.RELEASE\spring-expression-4.1.6.RELEASE.jar;E:\Maven\repo\io\netty\netty-handler\4.0.27.Final\netty-handler-4.0.27.Final.jar;E:\Maven\repo\io\netty\netty-buffer\4.0.27.Final\netty-buffer-4.0.27.Final.jar;E:\Maven\repo\io\netty\netty-common\4.0.27.Final\netty-common-4.0.27.Final.jar;E:\Maven\repo\io\netty\netty-transport\4.0.27.Final\netty-transport-4.0.27.Final.jar;E:\Maven\repo\io\netty\netty-codec\4.0.27.Final\netty-codec-4.0.27.Final.jar
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/InputArguments
+[u'-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:61107', u'-Dfile.encoding=UTF-8']
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/BootClassPath
+D:\Green\J2SE7\jre\lib\resources.jar;D:\Green\J2SE7\jre\lib\rt.jar;D:\Green\J2SE7\jre\lib\sunrsasign.jar;D:\Green\J2SE7\jre\lib\jsse.jar;D:\Green\J2SE7\jre\lib\jce.jar;D:\Green\J2SE7\jre\lib\charsets.jar;D:\Green\J2SE7\jre\lib\jfr.jar;D:\Green\J2SE7\jre\classes
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/VmVendor
+Oracle Corporation
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/ManagementSpecVersion
+1.2
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/StartTime
+1433752653757
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/SpecName
+Java Virtual Machine Specification
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/SpecVendor
+Oracle Corporation
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/VmName
+Java HotSpot(TM) Client VM
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/VmVersion
+23.25-b01
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Runtime/LibraryPath
+D:\Green\J2SE7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Green\J2SE7\jre\bin;D:/Green/J2SE8/bin/../jre/bin/client;D:/Green/J2SE8/bin/../jre/bin;D:/Green/J2SE8/bin/../jre/lib/i386;D:\Goto;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;.;D:\Goto;D:\Green\Python27;D:\Green\Python27\Scripts;E:\gradle\bin;E:\go\bin;E:\sbt\bin;D:\Green\J2SE8\bin;E:\Maven\bin;D:\Green\svn\bin;;D:\Green\Nim\bin;E:\Tools;D:\Quick;D:\Green;D:\Green\MinGW\msys\1.0\bin;C:\Users\Administrator;;.
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/CollectionTime
+300
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/LastGcInfo
+{u'GcThreadCount': 1, u'memoryUsageAfterGc': {u'Perm Gen': {u'max': 67108864, u'init': 12582912, u'used': 20008448, u'committed': 20185088}, u'Tenured Gen': {u'max': 178978816, u'init': 11206656, u'used': 22012008, u'committed': 34406400}, u'Code Cache': {u'max': 33554432, u'init': 163840, u'used': 4785984, u'committed': 4816896}, u'Survivor Space': {u'max': 8912896, u'init': 524288, u'used': 270096, u'committed': 1703936}, u'Eden Space': {u'max': 71630848, u'init': 4521984, u'used': 0, u'committed': 13828096}}, u'startTime': 4380487, u'duration': 6, u'endTime': 4380493, u'id': 54, u'memoryUsageBeforeGc': {u'Perm Gen': {u'max': 67108864, u'init': 12582912, u'used': 20008448, u'committed': 20185088}, u'Tenured Gen': {u'max': 178978816, u'init': 11206656, u'used': 21396592, u'committed': 34406400}, u'Code Cache': {u'max': 33554432, u'init': 163840, u'used': 4785984, u'committed': 4816896}, u'Survivor Space': {u'max': 8912896, u'init': 524288, u'used': 1703936, u'committed': 1703936}, u'Eden Space': {u'max': 71630848, u'init': 4521984, u'used': 13821912, u'committed': 13828096}}}
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/Name
+Copy
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/ObjectName
+{u'objectName': u'java.lang:name=Copy,type=GarbageCollector'}
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/Valid
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/MemoryPoolNames
+[u'Eden Space', u'Survivor Space']
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Copy,type=GarbageCollector/CollectionCount
+54
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/PeakThreadCount
+32
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadCpuTimeEnabled
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ObjectName
+{u'objectName': u'java.lang:type=Threading'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/CurrentThreadUserTime
+109200700
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/AllThreadIds
+[1053, 1052, 513, 13, 1051, 512, 12, 1044, 1042, 1040, 1039, 1038, 1037, 11, 1027, 1026, 1025, 1023, 1022, 1021, 1020, 1019, 1018, 1016, 1015, 1014, 1013, 5, 4, 3, 2, 1]
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/TotalStartedThreadCount
+51
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadCpuTimeSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadContentionMonitoringEnabled
+False
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadCount
+32
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/DaemonThreadCount
+24
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/CurrentThreadCpuTimeSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadAllocatedMemorySupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/SynchronizerUsageSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/CurrentThreadCpuTime
+156001000
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadAllocatedMemoryEnabled
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ThreadContentionMonitoringSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Threading/ObjectMonitorUsageSupported
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:type=ClassLoading/UnloadedClassCount
+18
+http://127.0.0.1:8778/jolokia/read/java.lang:type=ClassLoading/LoadedClassCount
+5210
+http://127.0.0.1:8778/jolokia/read/java.lang:type=ClassLoading/Verbose
+False
+http://127.0.0.1:8778/jolokia/read/java.lang:type=ClassLoading/ObjectName
+{u'objectName': u'java.lang:type=ClassLoading'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=ClassLoading/TotalLoadedClassCount
+5228
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Memory/NonHeapMemoryUsage
+{u'max': 100663296, u'init': 12746752, u'used': 24817184, u'committed': 25001984}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Memory/HeapMemoryUsage
+{u'max': 259522560, u'init': 16777216, u'used': 25620264, u'committed': 49938432}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Memory/Verbose
+False
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Memory/ObjectName
+{u'objectName': u'java.lang:type=Memory'}
+http://127.0.0.1:8778/jolokia/read/java.lang:type=Memory/ObjectPendingFinalizationCount
+0
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/CollectionTime
+174
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/LastGcInfo
+{u'GcThreadCount': 1, u'memoryUsageAfterGc': {u'Perm Gen': {u'max': 67108864, u'init': 12582912, u'used': 16777208, u'committed': 16777216}, u'Tenured Gen': {u'max': 178978816, u'init': 11206656, u'used': 20643720, u'committed': 22183936}, u'Code Cache': {u'max': 33554432, u'init': 163840, u'used': 3022464, u'committed': 3047424}, u'Survivor Space': {u'max': 8912896, u'init': 524288, u'used': 0, u'committed': 1114112}, u'Eden Space': {u'max': 71630848, u'init': 4521984, u'used': 0, u'committed': 8912896}}, u'startTime': 60276, u'duration': 111, u'endTime': 60387, u'id': 2, u'memoryUsageBeforeGc': {u'Perm Gen': {u'max': 67108864, u'init': 12582912, u'used': 16777208, u'committed': 16777216}, u'Tenured Gen': {u'max': 178978816, u'init': 11206656, u'used': 21966416, u'committed': 22183936}, u'Code Cache': {u'max': 33554432, u'init': 163840, u'used': 3022464, u'committed': 3047424}, u'Survivor Space': {u'max': 8912896, u'init': 524288, u'used': 1000728, u'committed': 1114112}, u'Eden Space': {u'max': 71630848, u'init': 4521984, u'used': 2676272, u'committed': 8912896}}}
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/Name
+MarkSweepCompact
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/ObjectName
+{u'objectName': u'java.lang:name=MarkSweepCompact,type=GarbageCollector'}
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/Valid
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/MemoryPoolNames
+[u'Eden Space', u'Survivor Space', u'Tenured Gen', u'Perm Gen']
+http://127.0.0.1:8778/jolokia/read/java.lang:name=MarkSweepCompact,type=GarbageCollector/CollectionCount
+2
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/UsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/CollectionUsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/Name
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/ObjectName
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/UsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/CollectionUsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/PeakUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/MemoryManagerNames
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/CollectionUsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/Valid
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/Usage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/UsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/Type
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/CollectionUsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/CollectionUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Survivor Space,type=MemoryPool/UsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=CodeCacheManager,type=MemoryManager/ObjectName
+{u'objectName': u'java.lang:name=CodeCacheManager,type=MemoryManager'}
+http://127.0.0.1:8778/jolokia/read/java.lang:name=CodeCacheManager,type=MemoryManager/Valid
+True
+http://127.0.0.1:8778/jolokia/read/java.lang:name=CodeCacheManager,type=MemoryManager/Name
+CodeCacheManager
+http://127.0.0.1:8778/jolokia/read/java.lang:name=CodeCacheManager,type=MemoryManager/MemoryPoolNames
+[u'Code Cache']
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/UsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/CollectionUsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/Name
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/ObjectName
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/UsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/CollectionUsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/PeakUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/MemoryManagerNames
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/CollectionUsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/Valid
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/Usage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/UsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/Type
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/CollectionUsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/CollectionUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Eden Space,type=MemoryPool/UsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/UsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/CollectionUsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/Name
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/ObjectName
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/UsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/CollectionUsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/PeakUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/MemoryManagerNames
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/CollectionUsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/Valid
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/Usage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/UsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/Type
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/CollectionUsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/CollectionUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Code Cache,type=MemoryPool/UsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/UsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/CollectionUsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/Name
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/ObjectName
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/UsageThreshold
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/CollectionUsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/PeakUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/MemoryManagerNames
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/CollectionUsageThresholdCount
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/Valid
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/Usage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/UsageThresholdSupported
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/Type
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/CollectionUsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/CollectionUsage
+None
+http://127.0.0.1:8778/jolokia/read/java.lang:name=Perm Gen,type=MemoryPool/UsageThresholdExceeded
+None
+http://127.0.0.1:8778/jolokia/read/com.sun.management:type=HotSpotDiagnostic/DiagnosticOptions
+[{u'origin': u'DEFAULT', u'writeable': True, u'name': u'HeapDumpBeforeFullGC', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'HeapDumpAfterFullGC', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'HeapDumpOnOutOfMemoryError', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'HeapDumpPath', u'value': u''}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'CMSAbortablePrecleanWaitMillis', u'value': u'100'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'CMSWaitDuration', u'value': u'2000'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintGC', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintGCDetails', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintGCDateStamps', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintGCTimeStamps', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintClassHistogramBeforeFullGC', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintClassHistogramAfterFullGC', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintClassHistogram', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'PrintConcurrentLocks', u'value': u'false'}, {u'origin': u'DEFAULT', u'writeable': True, u'name': u'UnlockCommercialFeatures', u'value': u'false'}]
+http://127.0.0.1:8778/jolokia/read/com.sun.management:type=HotSpotDiagnostic/ObjectName
+{u'objectName': u'com.sun.management:type=HotSpotDiagnostic'}
+http://127.0.0.1:8778/jolokia/read/com.sitech.crmpd.idmm2.broker:hashCode=a3f5e3,type=LogicHandler/Sharable
+True
+http://127.0.0.1:8778/jolokia/read/com.sitech.crmpd.idmm2.broker:hashCode=a3f5e3,type=LogicHandler/RemoteAddresses
+{u'/172.22.0.25:64584': {u'hostName': u'PC-20150526KMRX', u'hostString': u'PC-20150526KMRX', u'unresolved': False, u'port': 1234, u'address': {u'multicastAddress': False, u'linkLocalAddress': False, u'loopbackAddress': {u'multicastAddress': False, u'linkLocalAddress': False, u'loopbackAddress': u'[this]', u'mCOrgLocal': False, u'hostName': u'localhost', u'mCGlobal': False, u'mCNodeLocal': False, u'hostAddress': u'127.0.0.1', u'siteLocalAddress': False, u'address': [127, 0, 0, 1], u'mCSiteLocal': False, u'anyLocalAddress': False, u'mCLinkLocal': False, u'canonicalHostName': u'127.0.0.1'}, u'mCOrgLocal': False, u'hostName': u'PC-20150526KMRX', u'mCGlobal': False, u'mCNodeLocal': False, u'hostAddress': u'172.22.0.25', u'siteLocalAddress': True, u'address': [-84, 22, 0, 25], u'mCSiteLocal': False, u'anyLocalAddress': False, u'mCLinkLocal': False, u'canonicalHostName': u'PC-20150526KMRX'}}}
+
+
+
+http://127.0.0.1:15678/jolokia/list
+
+http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/info
+http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/lockdetail/Sub119Opr/TRecOprCnttDest
+http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/lockdetail/${client}/${topic}
+http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/clientCount
+
+
+"com.sitech.crmpd.idmm.ble.RunTime":{"name=runTime":{"desc":"com.sitech.crmpd.idmm.ble.RunTime$$EnhancerBySpringCGLIB$$b1f28fb","op":{"info":{"ret":"java.lang.String","desc":"info","args":[]}}}}
+http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/info
+
+
+curl http://127.0.0.1:45678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/lockdetail/Sub_test0/TopictestDest0
+curl http://127.0.0.1:15678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/info
+
+curl http://127.0.0.1:45678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/lockdetail/Sub_test2/TopictestDest2
+
+curl http://10.162.200.220:25678/jolokia/exec/com.sitech.crmpd.idmm.ble.RunTime:name=runTime/info

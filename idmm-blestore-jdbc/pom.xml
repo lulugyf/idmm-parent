@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.sitech.crmpd</groupId>
+      <artifactId>idmm-parent</artifactId>
+      <version>3.0.0-Snapshot</version>
+  </parent>
+  <artifactId>idmm-blestore-jdbc</artifactId>
+  <name>idmm-blestore-jdbc</name>
+  <description>ble index store implement in jdbc</description>
+  
+  	<dependencies>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>idmm-ble</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		
+	</dependencies>
+</project>

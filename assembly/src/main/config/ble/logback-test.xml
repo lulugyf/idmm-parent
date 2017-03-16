@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" debug="true">
+	
+	
+	<appender name="debugout" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%5p]%d{HH:mm:ss.SSS}[%t][%logger{32}] -- %m%n</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- ignore these packages debug logging 
+	<logger name="o.s.j.core" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="c.s.c.idmm2.transport" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="o.s.j.datasource" level="WARN" additivity="false"><appender-ref ref="debugout" /></logger>
+	<logger name="o.s.jdbc.core" level="INFO" additivity="false" >
+        <appender-ref ref="debugout" />
+    </logger>
+	<logger name="o.s.b.f.s" level="INFO" additivity="false" /> -->
+
+	<logger name="org.apache.zookeeper.ClientCnxn" level="INFO" additivity="false">
+        <appender-ref ref="debugout" />
+    </logger>
+	
+	<root level="INFO">
+		<appender-ref ref="debugout" />
+	</root>
+	
+
+</configuration>
